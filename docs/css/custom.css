@@ -1,0 +1,39 @@
+/* Change the navigation panel color */
+.rtd-nav .wy-side-nav-search > .nav-search > form > input {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+.rtd-nav .wy-side-nav-search > .nav-search > form > input:focus {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+}
+.rtd-nav .wy-side-nav-search > .nav-search > form > button {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+}
+.rtd-nav .wy-side-nav-search > .nav-search > form > button:focus {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+}
+.rtd-nav .wy-menu > .current > a {
+    background-color: #28a745;
+    color: #fff;
+}
+
+/* Change the search menu color */
+.rtd-nav .wy-side-nav-search > .nav-search > form > .dropdown-menu {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+.rtd-nav .wy-side-nav-search > .nav-search > form > .dropdown-menu > li > a {
+    color: #fff;
+}
+
+.rtd-nav .wy-side-scroll {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+}

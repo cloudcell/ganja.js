@@ -1,0 +1,5 @@
+site_name: Unofficial GANJA Manual
+theme:
+    name: readthedocs
+extra_css:
+  - css/custom.css
