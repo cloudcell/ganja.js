@@ -4,3 +4,4 @@ codegen/cpp/*_cpp
 codegen/rust/*_rust.pdb
 package.json
 venv/*
+node_modules/*

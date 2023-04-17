@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/enkimute/ganja.js/issues"
   },
-  "homepage": "https://github.com/enkimute/ganja.js#readme"
+  "homepage": "https://github.com/enkimute/ganja.js#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.2"
+  }
 }
