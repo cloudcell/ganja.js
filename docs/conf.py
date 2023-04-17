@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Unofficial Documentation For GANJA'
+project = 'Unofficial Docs For GANJA'
 copyright = '2023, dustinthewind'
 author = 'dustinthewind'
 
